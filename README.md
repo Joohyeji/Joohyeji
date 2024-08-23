@@ -10,7 +10,7 @@
 
 **[Origami](https://github.com/Origami-5M/Origami)** | 아날로그 종이접기 인터렉션을 경험할 수 있는 3D 종이접기 시뮬레이션
 
-## Tools
+### Tools
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black">
